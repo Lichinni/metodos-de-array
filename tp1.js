@@ -24,5 +24,5 @@ var arrayDos=["lapiz", "tijera", "marcador", "regla"]
 
     arrayDos.shift()
 
-    document.write(arrayDos.join("<br>|"))
+    document.write(arrayDos.join("<br>"))
     document.write("<br> ================ <br>")
